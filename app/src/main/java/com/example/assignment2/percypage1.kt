@@ -39,6 +39,7 @@ class percypage1 : AppCompatActivity() {
         backbutton6.setOnClickListener {
             val intent = Intent(this, page2::class.java)
             startActivity(intent) }
+        4 i added 3 buttons
     }
 }
 
