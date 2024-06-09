@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, page1::class.java)
             startActivity(intent)
             finish() }, DELAY_TIME)
+        j
     }
 }
 
